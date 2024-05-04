@@ -1,0 +1,10 @@
+# Data path
+path: .//home/akshay/Desktop/InternInterview/Matrice.ai/deep_fashion/yolo_data
+
+# Train and validation data as 1) dict or 2) list of dict
+train: ..//home/akshay/Desktop/InternInterview/Matrice.ai/deep_fashion/yolo_data/train/images
+val: ..//home/akshay/Desktop/InternInterview/Matrice.ai/deep_fashion/yolo_data/val/images
+
+# Classes
+nc: 15
+names: [0 1 2 4 5 6]
